@@ -603,11 +603,11 @@ BlocoB = Array();
 for (let index = 0; index < blocos.length; index++) {
 
     if(blocos[index]['bloco'] == 'Bloco B'){
-        BlocoB.push(blocos[index]) 
+        BlocoB.push(blocos[index]);
     }
 
     if(blocos[index]['bloco'] == 'Bloco A'){
-        BlocoA.push(blocos[index]) 
+        BlocoA.push(blocos[index]);
     }
 }  
 
